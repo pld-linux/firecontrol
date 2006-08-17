@@ -1,8 +1,4 @@
 #
-# Conditional build:
-%bcond_with	tests		# build with tests
-%bcond_without	tests		# build without tests
-#
 Summary:	Debug 1394 devices
 Name:		1394commander
 Version:	0.1.1
