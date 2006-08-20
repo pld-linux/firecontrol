@@ -1,5 +1,5 @@
-#
 Summary:	Debug 1394 devices
+Summary(pl):	Diagnostyka urz±dzeñ 1394
 Name:		1394commander
 Version:	0.1.1
 Release:	1
@@ -18,6 +18,15 @@ bus as well as to force bus resets. The main advantage of this tool
 over other available tools (like gscanbus) is (besides not requiring a
 graphical interface), that it reports the exact acknowledge and
 response codes and therefore is very useful for debugging purposes.
+
+%description -l pl
+1394commander to proste narzêdzie konsolowe oparte na libraw1394 do
+wydawania poleceñ asynchronicznego odczytu, zapisu i blokowania
+pewnych wêz³ów na szynie, a tak¿e wymuszania resetu szyny. G³ówn±
+zalet± tego narzêdzia nad innymi (jak gscanbus) jest (oprócz nie
+wymagania graficznego interfejsu) to, ¿e podaje szczegó³owe informacje
+i kody odpowiedzi, dziêki czemu jest bardzo przydatne do celów
+diagnostycznych.
 
 %prep
 %setup -q
