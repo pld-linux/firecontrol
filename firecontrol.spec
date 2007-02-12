@@ -1,5 +1,5 @@
 Summary:	Debug 1394 devices
-Summary(pl.UTF-8):   Diagnostyka urządzeń 1394
+Summary(pl.UTF-8):	Diagnostyka urządzeń 1394
 Name:		1394commander
 Version:	0.1.1
 Release:	1
