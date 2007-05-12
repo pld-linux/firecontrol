@@ -6,7 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications
 Source0:	http://dl.sourceforge.net/firecontrol/%{name}-%{version}.tar.gz
-# Source0-md5:	b72b94e060c6f1fd99b94d5ffe2dc620
+# Source0-md5:	e0f272ee4a72f214af3b06bfb81527ef
 URL:		http://firecontrol.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
