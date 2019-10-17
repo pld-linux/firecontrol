@@ -2,7 +2,7 @@ Summary:	Debug 1394 devices
 Summary(pl.UTF-8):	Diagnostyka urządzeń 1394
 Name:		firecontrol
 Version:	0.2
-Release:	4
+Release:	5
 License:	GPL
 Group:		Applications
 Source0:	http://dl.sourceforge.net/firecontrol/%{name}-%{version}.tar.gz
